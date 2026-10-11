@@ -1,0 +1,6 @@
+{
+  "title": "我的书",
+  "description": "文章、笔记和章节",
+  "language": "zh-hans",
+  "root": "./docs"
+}

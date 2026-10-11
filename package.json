@@ -1,0 +1,14 @@
+{
+  "name": "my-book",
+  "version": "1.0.0",
+  "private": true,
+  "description": "个人文章与书籍",
+  "scripts": {
+    "start": "honkit serve --port 4000",
+    "build": "honkit build",
+    "check": "node scripts/check-book.mjs"
+  },
+  "devDependencies": {
+    "honkit": "6.2.2"
+  }
+}
